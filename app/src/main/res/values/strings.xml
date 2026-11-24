@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Iḥyā’ul ‘Arabiyyah</string>
+    <string name="app_subtitle">Menghidupkan &amp; Menjaga Kemampuan Bahasa Arab</string>
+    <string name="nav_home">Beranda</string>
+    <string name="nav_exam">Ujian</string>
+    <string name="nav_certificates">Sertifikat</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_designer">Perancang</string>
+</resources>

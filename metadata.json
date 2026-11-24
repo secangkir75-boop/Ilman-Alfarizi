@@ -1,0 +1,6 @@
+{
+  "name": "Iḥyā’ul ‘Arabiyyah",
+  "description": "Aplikasi pembelajaran Bahasa Arab interaktif untuk pelajar dengan manajemen materi, video, cerita, istima', kitabah, tahlil, tarjamah, ujian, dan sertifikat oleh perancang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
